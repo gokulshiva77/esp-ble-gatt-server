@@ -1,0 +1,9 @@
+{
+  "name": "esp-ble-gatt-server-devcontainer",
+   "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
